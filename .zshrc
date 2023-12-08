@@ -87,8 +87,6 @@ source $ZSH/oh-my-zsh.sh
 
 # User configuration
 
-# export MANPATH="/usr/local/man:$MANPATH"
-
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
 
@@ -102,15 +100,6 @@ source $ZSH/oh-my-zsh.sh
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
 
-# Set personal aliases, overriding those provided by oh-my-zsh libs,
-# plugins, and themes. Aliases can be placed here, though oh-my-zsh
-# users are encouraged to define aliases within the ZSH_CUSTOM folder.
-# For a full list of active aliases, run `alias`.
-#
-# Example aliases
-# alias zshconfig="mate ~/.zshrc"
-# alias ohmyzsh="mate ~/.oh-my-zsh"
-
 alias dv="cd ~/Downloads/Video"
 alias vlc='/Applications/VLC.app/Contents/MacOS/VLC'
 alias vim="nvim"
@@ -120,8 +109,9 @@ alias dots='/usr/bin/git --git-dir=$HOME/.dots/ --work-tree=$HOME'
 alias edit-ngrok-config='vim ~/Library/Application\ Support/ngrok/ngrok.yml'
 
 eval "$(starship init zsh)"
+
 # possible options: emodipt-extend, kali, pure, negligible, craver, honukai, wopian
-eval "$(oh-my-posh init zsh --config $(brew --prefix oh-my-posh)/themes/honukai.omp.json)"
+eval "$(oh-my-posh init zsh --config $(brew --prefix oh-my-posh)/themes/craver.omp.json)"
 
 eval "$(zoxide init zsh)"
 
