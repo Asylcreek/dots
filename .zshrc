@@ -1,5 +1,5 @@
-# Fig pre block. Keep at the top of this file.
-[[ -f "$HOME/.fig/shell/zshrc.pre.zsh" ]] && builtin source "$HOME/.fig/shell/zshrc.pre.zsh"
+# CodeWhisperer pre block. Keep at the top of this file.
+[[ -f "${HOME}/Library/Application Support/codewhisperer/shell/zshrc.pre.zsh" ]] && builtin source "${HOME}/Library/Application Support/codewhisperer/shell/zshrc.pre.zsh"
 
 # If you come from bash you might have to change your $PATH.
 export PATH=$HOME/bin:/usr/local/bin:$PATH
@@ -103,6 +103,7 @@ source $ZSH/oh-my-zsh.sh
 alias dv="cd ~/Downloads/Video"
 alias vlc='/Applications/VLC.app/Contents/MacOS/VLC'
 alias vim="nvim"
+alias python="python3"
 
 alias dash='ta gh && tmux send-keys -t 0 "gh dash" Enter'
 alias dots='/usr/bin/git --git-dir=$HOME/.dots/ --work-tree=$HOME'
@@ -111,7 +112,7 @@ alias edit-ngrok-config='vim ~/Library/Application\ Support/ngrok/ngrok.yml'
 eval "$(starship init zsh)"
 
 # possible options: emodipt-extend, kali, pure, negligible, craver, honukai, wopian
-eval "$(oh-my-posh init zsh --config $(brew --prefix oh-my-posh)/themes/craver.omp.json)"
+eval "$(oh-my-posh init zsh --config $(brew --prefix oh-my-posh)/themes/wopian.omp.json)"
 
 eval "$(zoxide init zsh)"
 
@@ -129,9 +130,18 @@ export FZF_CTRL_T_COMMAND="$FZF_DEFAULT_COMMAND"
 
 test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
 
-# Fig post block. Keep at the bottom of this file.
-
-# Fig post block. Keep at the bottom of this file.
-[[ -f "$HOME/.fig/shell/zshrc.post.zsh" ]] && builtin source "$HOME/.fig/shell/zshrc.post.zsh"
-
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+
+# pnpm
+export PNPM_HOME="/Users/asylcreek/Library/pnpm"
+case ":$PATH:" in
+  *":$PNPM_HOME:"*) ;;
+  *) export PATH="$PNPM_HOME:$PATH" ;;
+esac
+# pnpm end
+
+autoload -U +X bashcompinit && bashcompinit
+complete -o nospace -C /opt/homebrew/bin/terraform terraform
+
+# CodeWhisperer post block. Keep at the bottom of this file.
+[[ -f "${HOME}/Library/Application Support/codewhisperer/shell/zshrc.post.zsh" ]] && builtin source "${HOME}/Library/Application Support/codewhisperer/shell/zshrc.post.zsh"
