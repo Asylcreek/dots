@@ -109,6 +109,10 @@ alias dash='ta gh && tmux send-keys -t 0 "gh dash" Enter'
 alias dots='/usr/bin/git --git-dir=$HOME/.dots/ --work-tree=$HOME'
 alias edit-ngrok-config='vim ~/Library/Application\ Support/ngrok/ngrok.yml'
 
+# zsh-vi-mode plugin
+source $(brew --prefix)/opt/zsh-vi-mode/share/zsh-vi-mode/zsh-vi-mode.plugin.zsh
+ZVM_VI_INSERT_ESCAPE_BINDKEY=jj
+
 eval "$(starship init zsh)"
 
 # possible options: emodipt-extend, kali, pure, negligible, craver, honukai, wopian
