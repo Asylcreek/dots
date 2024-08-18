@@ -1,0 +1,212 @@
+pane	18	0	1	:*	0	zsh	:/Users/asylcreek/Documents	1	zsh	:/bin/zsh
+pane	Obsidian_Vault	0	1	:*	0	zsh	:/Users/asylcreek/Documents/Obsidian\ Vault	1	zsh	:/bin/zsh
+pane	Turing	0	1	:*	0	zsh	:/Users/asylcreek/Documents/Turing/Closed-RHLF-W-Conditional-Rewrite	1	zsh	:/bin/zsh
+pane	Turing	0	1	:*	1	zsh	:/Users/asylcreek/Documents/Turing/testing/vite-project	0	zsh	:/bin/zsh
+pane	absolut	0	0	:	0	zsh	:/Users/asylcreek/Documents/absolut/max-util	1	zsh	:/bin/zsh
+pane	absolut	0	0	:	1	zsh	:/Users/asylcreek/Documents/absolut/max-util	0	zsh	:/bin/zsh
+pane	absolut	1	0	:	0	zsh	:/Users/asylcreek/Documents/absolut/super-agent	1	zsh	:/bin/zsh
+pane	absolut	1	0	:	1	zsh	:/Users/asylcreek/Documents/absolut/super-agent	0	zsh	:/bin/zsh
+pane	absolut	2	0	:	0	zsh	:/Users/asylcreek/Documents/absolut/util-client-proxy	1	zsh	:/bin/zsh
+pane	absolut	2	0	:	1	zsh	:/Users/asylcreek/Documents/absolut/util-client-proxy	0	zsh	:/bin/zsh
+pane	absolut	3	0	:	0	zsh	:/Users/asylcreek/Documents/absolut/max-wallet	1	zsh	:/bin/zsh
+pane	absolut	3	0	:	1	zsh	:/Users/asylcreek/Documents/absolut/max-wallet	0	zsh	:/bin/zsh
+pane	absolut	4	0	:	0	zsh	:/Users/asylcreek/Documents/absolut/max-gaming	1	zsh	:/bin/zsh
+pane	absolut	4	0	:	1	zsh	:/Users/asylcreek/Documents/absolut/max-gaming	0	zsh	:/bin/zsh
+pane	absolut	5	0	:	0	zsh	:/Users/asylcreek/Documents/absolut/max-users	0	zsh	:/bin/zsh
+pane	absolut	5	0	:	1	zsh	:/Users/asylcreek/Documents/absolut/max-users	1	zsh	:/bin/zsh
+pane	absolut	6	0	:	0	zsh	:/Users/asylcreek/Documents/absolut/max-network	0	zsh	:/bin/zsh
+pane	absolut	6	0	:	1	zsh	:/Users/asylcreek/Documents/absolut/max-network	1	zsh	:/bin/zsh
+pane	absolut	7	0	:	0	zsh	:/Users/asylcreek/Documents/absolut/max-super-agent	1	zsh	:/bin/zsh
+pane	absolut	7	0	:	1	zsh	:/Users/asylcreek/Documents/absolut/max-super-agent	0	zsh	:/bin/zsh
+pane	absolut	8	1	:*	0	zsh	:/Users/asylcreek/Documents/absolut/mega-util	1	zsh	:/bin/zsh
+pane	absolut	8	1	:*	1	zsh	:/Users/asylcreek/Documents/absolut/mega-util	0	zsh	:/bin/zsh
+pane	absolut	9	0	:-	0	zsh	:/Users/asylcreek/Documents/absolut/mega-super	1	zsh	:/bin/zsh
+pane	absolut	9	0	:-	1	zsh	:/Users/asylcreek/Documents/absolut/mega-super	0	zsh	:/bin/zsh
+pane	absolut	10	0	:	0	zsh	:/Users/asylcreek/Documents/absolut/mega-admin	1	zsh	:/bin/zsh
+pane	absolut	10	0	:	1	zsh	:/Users/asylcreek/Documents/absolut/mega-admin	0	zsh	:/bin/zsh
+pane	asyl	0	1	:*	0	zsh	:/Users/asylcreek/Documents/keychron-qmk-firmware/keyboards/keychron/k15_pro/ansi_encoder/white/keymaps/asyl	1	zsh	:/bin/zsh
+pane	asyl	0	1	:*	1	zsh	:/Users/asylcreek/Documents/keychron-qmk-firmware/keyboards/keychron/k15_pro/ansi_encoder/white/keymaps/asyl	0	zsh	:/bin/zsh
+pane	chimzy	0	1	:*	0	zsh	:/Users/asylcreek/Documents/chimzy/meta-digitals-service-new-	1	zsh	:/bin/zsh
+pane	chimzy	0	1	:*	1	zsh	:/Users/asylcreek/Documents/chimzy/meta-digitals-service-new-	0	zsh	:/bin/zsh
+pane	customer-2	0	1	:*	0	zsh	:/Users/asylcreek/Documents/deelaa/customer-2	1	zsh	:/bin/zsh
+pane	deelaa	0	1	:*	0	zsh	:/Users/asylcreek/Documents/deelaa/client	1	zsh	:/bin/zsh
+pane	deelaa	0	1	:*	1	zsh	:/Users/asylcreek/Documents/deelaa/client	0	zsh	:/bin/zsh
+pane	deelaa	1	0	:-	0	zsh	:/Users/asylcreek/Documents/deelaa/admin	0	zsh	:/bin/zsh
+pane	deelaa	1	0	:-	1	zsh	:/Users/asylcreek/Documents/deelaa/admin	1	zsh	:/bin/zsh
+pane	deelaa	2	0	:	0	zsh	:/Users/asylcreek/Documents/deelaa/vendor	1	zsh	:/bin/zsh
+pane	deelaa	2	0	:	1	zsh	:/Users/asylcreek/Documents/deelaa/vendor	0	zsh	:/bin/zsh
+pane	deelaa	3	0	:	0	zsh	:/Users/asylcreek/Documents/deelaa/generate-ticket	1	zsh	:/bin/zsh
+pane	deelaa	3	0	:	1	zsh	:/Users/asylcreek/Documents/deelaa/customer-2	0	zsh	:/bin/zsh
+pane	deelaa	4	0	:	0	zsh	:/Users/asylcreek/Documents/deelaa/custom-eticketing	0	zsh	:/bin/zsh
+pane	deelaa	4	0	:	1	zsh	:/Users/asylcreek/Documents/deelaa/custom-eticketing	0	zsh	:/bin/zsh
+pane	deelaa	4	0	:	2	zsh	:/Users/asylcreek/Documents/deelaa/custom-eticketing	1	zsh	:/bin/zsh
+pane	deelaa	5	0	:	0	zsh	:/Users/asylcreek/Documents/deelaa/new-admin	1	zsh	:/bin/zsh
+pane	deelaa	6	0	:	0	zsh	:/Users/asylcreek/Documents/deelaa/deelaa.com	1	zsh	:/bin/zsh
+pane	deelaa	6	0	:	1	zsh	:/Users/asylcreek/Documents/deelaa/deelaa.com	0	zsh	:/bin/zsh
+pane	deelaa	6	0	:	2	zsh	:/Users/asylcreek/Documents/deelaa/client	0	zsh	:/bin/zsh
+pane	deelaa	7	0	:	0	zsh	:/Users/asylcreek/Documents/deelaa/generate-ticket	1	zsh	:/bin/zsh
+pane	finch	0	0	:	0	zsh	:/Users/asylcreek/Documents/finch/travel-booking	1	zsh	:/bin/zsh
+pane	finch	0	0	:	1	zsh	:/Users/asylcreek/Documents/finch/travel-booking	0	zsh	:/bin/zsh
+pane	finch	1	1	:*	0	zsh	:/Users/asylcreek/Documents/finch/partner-plus	1	zsh	:/bin/zsh
+pane	finch	1	1	:*	1	zsh	:/Users/asylcreek/Documents/finch/partner-plus	0	zsh	:/bin/zsh
+pane	finch	2	0	:-	0	zsh	:/Users/asylcreek/Documents/finch/traveller-profile	1	zsh	:/bin/zsh
+pane	finch	2	0	:-	1	zsh	:/Users/asylcreek/Documents/finch/traveller-profile	0	zsh	:/bin/zsh
+pane	finch	3	0	:	0	zsh	:/Users/asylcreek/Documents/finch/fcm-invoicing	0	zsh	:/bin/zsh
+pane	finch	3	0	:	1	zsh	:/Users/asylcreek/Documents/finch/fcm-invoicing	1	zsh	:/bin/zsh
+pane	finch	4	0	:	0	zsh	:/Users/asylcreek/Documents/finch/travelden	1	zsh	:/bin/zsh
+pane	finch	5	0	:	0	zsh	:/Users/asylcreek/Documents/finch/holidays	0	zsh	:/bin/zsh
+pane	finch	5	0	:	1	zsh	:/Users/asylcreek/Documents/finch/holidays	1	zsh	:/bin/zsh
+pane	finch	6	0	:	0	zsh	:/Users/asylcreek/Documents/finch/finchglowtravel	1	zsh	:/bin/zsh
+pane	finch	6	0	:	1	zsh	:/Users/asylcreek/Documents/finch/finchglowtravel	0	zsh	:/bin/zsh
+pane	flippay	0	0	:-	0	zsh	:/Users/asylcreek/Documents/flippay/backend	1	zsh	:/bin/zsh
+pane	flippay	0	0	:-	1	zsh	:/Users/asylcreek/Documents/flippay/backend	0	zsh	:/bin/zsh
+pane	flippay	0	0	:-	2	zsh	:/Users/asylcreek/Documents/flippay	0	zsh	:/bin/zsh
+pane	flippay	1	1	:*	0	zsh	:/Users/asylcreek/.config	0	zsh	:/bin/zsh
+pane	flippay	1	1	:*	1	zsh	:/Users/asylcreek/.config	1	zsh	:/bin/zsh
+pane	gate	0	1	:*	0	zsh	:/Users/asylcreek/Documents/GATE/api	0	zsh	:/bin/zsh
+pane	gate	0	1	:*	1	zsh	:/Users/asylcreek/Documents/GATE/api	1	zsh	:/bin/zsh
+pane	gate	1	0	:-	0	zsh	:/Users/asylcreek/Documents/GATE/admin	1	zsh	:/bin/zsh
+pane	gate	1	0	:-	1	zsh	:/Users/asylcreek/Documents/GATE/admin	0	zsh	:/bin/zsh
+pane	gate	2	0	:	0	zsh	:/Users/asylcreek/Documents/GATE/dashboard	1	zsh	:/bin/zsh
+pane	gate	2	0	:	1	zsh	:/Users/asylcreek/Documents/GATE/dashboard	0	zsh	:/bin/zsh
+pane	gate	3	0	:	0	zsh	:/Users/asylcreek/Documents/GATE/assignmenthelp-frontend	1	zsh	:/bin/zsh
+pane	gate	3	0	:	1	zsh	:/Users/asylcreek/Documents/GATE/assignmenthelp-frontend	0	zsh	:/bin/zsh
+pane	gate	4	0	:	0	zsh	:/Users/asylcreek/Documents/GATE/metabase	1	zsh	:/bin/zsh
+pane	gate	5	0	:	0	zsh	:/Users/asylcreek/Documents/GATE/assignmenthelp-backend	1	zsh	:/bin/zsh
+pane	gate	5	0	:	1	zsh	:/Users/asylcreek/Documents/GATE/assignmenthelp-backend	0	zsh	:/bin/zsh
+pane	gate	8	0	:	0	zsh	:/Users/asylcreek/Documents/GATE/tutor-dashboard	1	zsh	:/bin/zsh
+pane	gate	8	0	:	1	zsh	:/Users/asylcreek/Documents/GATE/tutor-dashboard	0	zsh	:/bin/zsh
+pane	gate	10	0	:	0	zsh	:/Users/asylcreek/Documents/GATE/gateacademy	1	zsh	:/bin/zsh
+pane	gate	10	0	:	1	zsh	:/Users/asylcreek/Documents/GATE/gateacademy	0	zsh	:/bin/zsh
+pane	gate	11	0	:	0	zsh	:/Users/asylcreek/Documents/GATE/gate-edu-inc	1	zsh	:/bin/zsh
+pane	gate	12	0	:	0	zsh	:/Users/asylcreek/Documents/GATE/site	1	zsh	:/bin/zsh
+pane	gate	12	0	:	1	zsh	:/Users/asylcreek/Documents/GATE/site	0	zsh	:/bin/zsh
+pane	gate	13	0	:	0	zsh	:/Users/asylcreek/Documents/GATE/bridgetalent.org	1	zsh	:/bin/zsh
+pane	gate	13	0	:	1	zsh	:/Users/asylcreek/Documents/GATE/bridgetalent.org	0	zsh	:/bin/zsh
+pane	gh-dash	0	1	:*	0	zsh	:/Users/asylcreek/.config/gh-dash	1	zsh	:/bin/zsh
+pane	github-templates	0	0	:-	0	zsh	:/Users/asylcreek/Documents/github-templates/template-sveltekit-typescript	1	zsh	:/bin/zsh
+pane	github-templates	0	0	:-	1	zsh	:/Users/asylcreek/Documents/github-templates/template-sveltekit-typescript	0	zsh	:/bin/zsh
+pane	github-templates	1	0	:	0	zsh	:/Users/asylcreek/Documents/github-templates/nextjs-ts	0	zsh	:/bin/zsh
+pane	github-templates	1	0	:	1	zsh	:/Users/asylcreek/Documents/github-templates/nextjs-ts	1	zsh	:/bin/zsh
+pane	github-templates	2	1	:*	0	zsh	:/Users/asylcreek/Documents/github-templates/nestjs-ts	1	zsh	:/bin/zsh
+pane	github-templates	2	1	:*	1	zsh	:/Users/asylcreek/Documents/github-templates/nestjs-ts	0	zsh	:/bin/zsh
+pane	home-manager	0	1	:*	0	zsh	:/Users/asylcreek/.config/home-manager	1	zsh	:/bin/zsh
+pane	home-manager	0	1	:*	1	zsh	:/Users/asylcreek/.config/home-manager	0	zsh	:/bin/zsh
+pane	learn	0	0	:	0	zsh	:/Users/asylcreek/Documents/learn	0	zsh	:/bin/zsh
+pane	learn	0	0	:	1	zsh	:/Users/asylcreek/Documents/learn/algorithms	1	zsh	:/bin/zsh
+pane	learn	1	0	:	0	zsh	:/Users/asylcreek/Documents/learn/frontend-mentor-challenges/newsletter-sign-up-form-with-success-message	0	zsh	:/bin/zsh
+pane	learn	1	0	:	1	zsh	:/Users/asylcreek/Documents/learn/frontend-mentor-challenges/newsletter-sign-up-form-with-success-message	1	zsh	:/bin/zsh
+pane	learn	2	0	:	0	zsh	:/Users/asylcreek/Documents/learn/meals-to-go	1	zsh	:/bin/zsh
+pane	learn	2	0	:	1	zsh	:/Users/asylcreek/Documents/learn/meals-to-go	0	zsh	:/bin/zsh
+pane	learn	2	0	:	2	zsh	:/Users/asylcreek/Documents/learn/meals-to-go	0	zsh	:/bin/zsh
+pane	learn	3	0	:	0	zsh	:/Users/asylcreek/Documents/learn/go-apis/bookstore-management	1	zsh	:/bin/zsh
+pane	learn	3	0	:	1	zsh	:/Users/asylcreek/Documents/learn/go-apis/bookstore-management	0	zsh	:/bin/zsh
+pane	learn	3	0	:	2	zsh	:/Users/asylcreek/Documents/learn/go-apis/simple-auth-server	0	zsh	:/bin/zsh
+pane	learn	4	0	:	0	zsh	:/Users/asylcreek/Documents/learn/go-apis/slugify	1	zsh	:/bin/zsh
+pane	learn	4	0	:	1	zsh	:/Users/asylcreek/Documents/learn/go-apis/slugify	0	zsh	:/bin/zsh
+pane	learn	5	0	:	0	zsh	:/Users/asylcreek/Documents/GATE/svelte-admin	1	zsh	:/bin/zsh
+pane	learn	5	0	:	1	zsh	:/Users/asylcreek/Documents/GATE/svelte-admin	0	zsh	:/bin/zsh
+pane	learn	5	0	:	2	zsh	:/Users/asylcreek/Documents/GATE/svelte-admin	0	zsh	:/bin/zsh
+pane	learn	6	0	:	0	zsh	:/Users/asylcreek/Documents/learn/terraform/docker	1	zsh	:/bin/zsh
+pane	learn	6	0	:	1	zsh	:/Users/asylcreek/Documents/learn/terraform/docker	0	zsh	:/bin/zsh
+pane	learn	7	0	:-	0	zsh	:/Users/asylcreek/Documents/learn/aws-cdk	1	zsh	:/bin/zsh
+pane	learn	8	0	:	0	zsh	:/Users/asylcreek/Documents/learn/chat-example	1	zsh	:/bin/zsh
+pane	learn	8	0	:	1	zsh	:/Users/asylcreek/Documents/learn/chat-example	0	zsh	:/bin/zsh
+pane	learn	9	1	:*	0	zsh	:/Users/asylcreek/Documents/learn/frontend-masters/the-last-algorithms-course/kata-machine/src	1	zsh	:/bin/zsh
+pane	learn	9	1	:*	1	zsh	:/Users/asylcreek/Documents/learn/frontend-masters/the-last-algorithms-course/kata-machine	0	zsh	:/bin/zsh
+pane	maria	0	1	:*	0	zsh	:/Users/asylcreek/Documents/maria/exelis	1	zsh	:/bin/zsh
+pane	maria	0	1	:*	1	zsh	:/Users/asylcreek/Documents/maria/exelis/frontend	0	zsh	:/bin/zsh
+pane	maria	0	1	:*	2	zsh	:/Users/asylcreek/Documents/maria/exelis/backend	0	zsh	:/bin/zsh
+pane	nginx	0	1	:*	0	zsh	:/Users/asylcreek/Documents/nginx	1	zsh	:/bin/zsh
+pane	nginx	0	1	:*	1	zsh	:/Users/asylcreek/Documents/nginx	0	zsh	:/bin/zsh
+pane	nvim	0	1	:*	0	zsh	:/Users/asylcreek/.config/nvim	1	zsh	:/bin/zsh
+pane	pluto	0	1	:*	0	zsh	:/Users/asylcreek/Documents/pluto	1	zsh	:/bin/zsh
+pane	pluto	0	1	:*	1	zsh	:/Users/asylcreek/Documents/pluto	0	zsh	:/bin/zsh
+pane	proxy	0	1	:*	0	zsh	:/Users/asylcreek/Documents/GATE/proxy-tests/proxy	1	zsh	:/bin/zsh
+pane	proxy	0	1	:*	1	zsh	:/Users/asylcreek/Documents/GATE/proxy-tests/proxy	0	zsh	:/bin/zsh
+pane	uncover	0	1	:*	0	zsh	:/Users/asylcreek/Documents/uncover	1	zsh	:/bin/zsh
+pane	uncover	0	1	:*	1	zsh	:/Users/asylcreek/Documents/uncover/backend/uncover	0	zsh	:/bin/zsh
+pane	uncover	0	1	:*	2	zsh	:/Users/asylcreek/Documents/uncover	0	zsh	:/bin/zsh
+pane	uncover	0	1	:*	3	zsh	:/Users/asylcreek/Documents/uncover/Uncover-Frontend	0	zsh	:/bin/zsh
+pane	wgd	0	0	:-	0	zsh	:/Users/asylcreek/Documents/Techies/wgd/site	1	zsh	:/bin/zsh
+pane	wgd	0	0	:-	1	zsh	:/Users/asylcreek/Documents/Techies/wgd/site	0	zsh	:/bin/zsh
+pane	wgd	1	1	:*	0	zsh	:/Users/asylcreek/Documents/Techies/wgd/api	1	zsh	:/bin/zsh
+pane	wgd	1	1	:*	1	zsh	:/Users/asylcreek/Documents/Techies/wgd/api	0	zsh	:/bin/zsh
+pane	zintepee-rental	0	0	:	0	zsh	:/Users/asylcreek/Documents/veekthorr/zintepee-rental	1	zsh	:/bin/zsh
+pane	zintepee-rental	0	0	:	1	zsh	:/Users/asylcreek/Documents/veekthorr/zintepee-rental	0	zsh	:/bin/zsh
+pane	zintepee-rental	1	1	:*	0	zsh	:/Users/asylcreek/Documents/veekthorr/zintepee	1	zsh	:/bin/zsh
+pane	zintepee-rental	1	1	:*	1	zsh	:/Users/asylcreek/Documents/veekthorr/zintepee	0	zsh	:/bin/zsh
+pane	zintepee-rental	1	1	:*	2	zsh	:/Users/asylcreek/Documents/veekthorr/zintepee	0	zsh	:/bin/zsh
+pane	zintepee-rental	2	0	:-	0	zsh	:/Users/asylcreek/Documents/veekthorr/zintepee-rental	1	zsh	:/bin/zsh
+window	18	0	:zsh	1	:*	ba1e,245x62,0,0,1	:
+window	Obsidian_Vault	0	:zsh	1	:*	ba1f,245x62,0,0,2	:
+window	Turing	0	:zsh	1	:*	48ee,245x62,0,0[245x60,0,0,3,245x1,0,61,4]	:
+window	absolut	0	:max-util	0	:	f71e,152x110,0,0[152x84,0,0,5,152x25,0,85,6]	off
+window	absolut	1	:zsh	0	:	f723,152x110,0,0[152x84,0,0,7,152x25,0,85,8]	:
+window	absolut	2	:zsh	0	:	bbd8,152x110,0,0[152x84,0,0,9,152x25,0,85,10]	:
+window	absolut	3	:zsh	0	:	5bbd,245x62,0,0[245x2,0,0,11,245x59,0,3,12]	:
+window	absolut	4	:zsh	0	:	5bc2,245x62,0,0[245x2,0,0,13,245x59,0,3,14]	:
+window	absolut	5	:zsh	0	:	5bc7,245x62,0,0[245x2,0,0,15,245x59,0,3,16]	:
+window	absolut	6	:zsh	0	:	5bcc,245x62,0,0[245x2,0,0,17,245x59,0,3,18]	:
+window	absolut	7	:max-super	0	:	3265,245x62,0,0[245x60,0,0,19,245x1,0,61,20]	off
+window	absolut	8	:mega-util	1	:*	8dd3,152x110,0,0[152x81,0,0,21,152x28,0,82,22]	off
+window	absolut	9	:mega-super	0	:-	9696,152x110,0,0[152x72,0,0,23,152x37,0,73,24]	off
+window	absolut	10	:mega-admin	0	:	1d79,245x62,0,0[245x47,0,0,25,245x14,0,48,26]	off
+window	asyl	0	:zsh	1	:*	3266,245x62,0,0[245x60,0,0,27,245x1,0,61,28]	:
+window	chimzy	0	:zsh	1	:*	7266,245x62,0,0[245x60,0,0,29,245x1,0,61,30]	:
+window	customer-2	0	:zsh	1	:*	5d41,245x62,0,0,31	:
+window	deelaa	0	:client	1	:*	625b,245x62,0,0[245x56,0,0,32,245x5,0,57,33]	off
+window	deelaa	1	:zsh	0	:-	f25f,245x62,0,0[245x60,0,0,34,245x1,0,61,35]	:
+window	deelaa	2	:zsh	0	:	f264,245x62,0,0[245x60,0,0,36,245x1,0,61,37]	:
+window	deelaa	3	:zsh	0	:	5bd1,245x62,0,0[245x2,0,0,38,245x59,0,3,39]	:
+window	deelaa	4	:zsh	0	:	3977,245x62,0,0[245x2,0,0,40,245x2,0,3,41,245x56,0,6,42]	:
+window	deelaa	5	:zsh	0	:	dd43,245x62,0,0,43	:
+window	deelaa	6	:zsh	0	:	e78a,245x62,0,0[245x47,0,0,44,245x14,0,48{122x14,0,48,45,122x14,123,48,46}]	:
+window	deelaa	7	:zsh	0	:	dd47,245x62,0,0,47	:
+window	finch	0	:zsh	0	:	9bd2,245x62,0,0[245x2,0,0,48,245x59,0,3,49]	:
+window	finch	1	:partner-plus	1	:*	8254,152x110,0,0[152x84,0,0,50,152x25,0,85,51]	off
+window	finch	2	:traveller-portal	0	:-	70d7,152x110,0,0[152x83,0,0,52,152x26,0,84,53]	off
+window	finch	3	:fcm	0	:	7262,245x62,0,0[245x60,0,0,54,245x1,0,61,55]	off
+window	finch	4	:travelden	0	:	5d47,245x62,0,0,56	off
+window	finch	5	:holidays	0	:	626a,245x62,0,0[245x56,0,0,57,245x5,0,57,58]	off
+window	finch	6	:finchglowtravel	0	:	425d,152x110,0,0[152x84,0,0,59,152x25,0,85,60]	off
+window	flippay	0	:zsh	0	:-	399c,245x62,0,0[245x2,0,0,61,245x2,0,3,62,245x56,0,6,63]	:
+window	flippay	1	:zsh	1	:*	1bcb,245x62,0,0[245x2,0,0,64,245x59,0,3,65]	:
+window	gate	0	:api	1	:*	281e,152x110,0,0[152x73,0,0,66,152x36,0,74,67]	off
+window	gate	1	:admin	0	:-	4261,152x110,0,0[152x84,0,0,68,152x25,0,85,69]	off
+window	gate	2	:dashboard	0	:	04db,245x62,0,0[245x59,0,0,70,245x2,0,60,71]	off
+window	gate	3	:ah-frontend	0	:	5bc7,245x62,0,0[245x2,0,0,72,245x59,0,3,73]	off
+window	gate	4	:metabase	0	:	5d46,245x62,0,0,74	off
+window	gate	5	:ah-backend	0	:	7267,245x62,0,0[245x60,0,0,75,245x1,0,61,76]	off
+window	gate	8	:preports	0	:	dbd3,245x62,0,0[245x2,0,0,77,245x59,0,3,78]	off
+window	gate	10	:c-library	0	:	b26c,245x62,0,0[245x60,0,0,79,245x1,0,61,80]	off
+window	gate	11	:edu-inc	0	:	dd43,245x62,0,0,81	off
+window	gate	12	:site	0	:	3261,245x62,0,0[245x60,0,0,82,245x1,0,61,83]	off
+window	gate	13	:bridgetalent	0	:	3266,245x62,0,0[245x60,0,0,84,245x1,0,61,85]	off
+window	gh-dash	0	:zsh	1	:*	dd48,245x62,0,0,86	:
+window	github-templates	0	:svelte	0	:-	b26d,245x62,0,0[245x60,0,0,87,245x1,0,61,88]	off
+window	github-templates	1	:next	0	:	f26d,245x62,0,0[245x60,0,0,89,245x1,0,61,90]	off
+window	github-templates	2	:nest	1	:*	f25f,245x62,0,0[245x60,0,0,91,245x1,0,61,92]	off
+window	home-manager	0	:zsh	1	:*	04e5,245x62,0,0[245x59,0,0,93,245x2,0,60,94]	:
+window	learn	0	:zsh	0	:	5bd1,245x62,0,0[245x2,0,0,95,245x59,0,3,96]	:
+window	learn	1	:zsh	0	:	5bd6,245x62,0,0[245x2,0,0,97,245x59,0,3,98]	:
+window	learn	2	:zsh	0	:	63cc,245x62,0,0[245x2,0,0,99,245x2,0,3,100,245x56,0,6,101]	:
+window	learn	3	:zsh	0	:	6ed7,245x62,0,0[245x2,0,0,102,245x2,0,3,103,245x56,0,6,104]	:
+window	learn	4	:zsh	0	:	50f8,245x62,0,0[245x2,0,0,105,245x59,0,3,106]	:
+window	learn	5	:zsh	0	:	eef2,245x62,0,0[245x2,0,0,107,245x2,0,3,108,245x56,0,6,109]	:
+window	learn	6	:zsh	0	:	90f1,245x62,0,0[245x2,0,0,110,245x59,0,3,111]	:
+window	learn	7	:zsh	0	:-	2ed2,245x62,0,0,112	:
+window	learn	8	:zsh	0	:	b235,245x62,0,0[245x49,0,0,113,245x12,0,50,114]	:
+window	learn	9	:zsh	1	:*	3d9f,245x62,0,0[245x59,0,0,115,245x2,0,60,116]	:
+window	maria	0	:zsh	1	:*	543f,245x62,0,0[245x45,0,0,117,245x16,0,46{122x16,0,46,118,122x16,123,46,119}]	:
+window	nginx	0	:zsh	1	:*	50f2,245x62,0,0[245x2,0,0,120,245x59,0,3,121]	:
+window	nvim	0	:zsh	1	:*	aed2,245x62,0,0,122	:
+window	pluto	0	:zsh	1	:*	d0f6,245x62,0,0[245x2,0,0,123,245x59,0,3,124]	:
+window	proxy	0	:zsh	1	:*	fcdf,245x62,0,0[245x60,0,0,125,245x1,0,61,126]	:
+window	uncover	0	:zsh	1	:*	6941,245x62,0,0[245x49,0,0,127,245x12,0,50{122x12,0,50,128,61x12,123,50,129,60x12,185,50,130}]	:
+window	wgd	0	:zsh	0	:-	90f4,245x62,0,0[245x2,0,0,131,245x59,0,3,132]	:
+window	wgd	1	:zsh	1	:*	b236,245x62,0,0[245x49,0,0,133,245x12,0,50,134]	:
+window	zintepee-rental	0	:zsh	0	:	f5f8,245x62,0,0[245x48,0,0,135,245x13,0,49,136]	:
+window	zintepee-rental	1	:svelte	1	:*	8ecf,245x62,0,0[245x44,0,0,137,245x17,0,45{122x17,0,45,138,122x17,123,45,139}]	off
+window	zintepee-rental	2	:studio	0	:-	aed1,245x62,0,0,140	off
+state	gate	finch
